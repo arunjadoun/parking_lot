@@ -1,0 +1,15 @@
+create_parking_lot 6
+park 1234 White
+park 9999 White
+park 0001 Black
+park MP-01-KK-1111 Red
+park MH-81-NN-2701 Blue
+park KA-21-HH-7741 Black
+leave 4
+status
+park KA-01-P-333 White
+park DL-12-AA-9999 White
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour White
+slot_number_for_registration_number KA-21-HH-7741
+slot_number_for_registration_number MH-04-AY-1111
